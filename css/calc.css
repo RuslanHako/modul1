@@ -1,0 +1,26 @@
+body{
+    background: url(/img/black-abstract-background-wallpaper-image_53876-110775.avif) no-repeat center/cover;
+    height: 100vh;
+}
+.tittle__list {
+    display: flex;
+    column-gap: 50px; 
+    justify-content: center;
+    align-items: center;
+}
+
+.title__link {
+    text-align: center;
+    color: rgb(255, 255, 255);
+   
+}
+
+.tittle__item {
+    list-style-type: none;
+}
+.section__clac{
+flex-direction: column;
+display: flex;
+justify-content: center;
+align-items: center;
+}
